@@ -1,0 +1,7 @@
+name,age,salary
+Anirban Majumder,24,80000
+Nitin Bhardwaj,24,80000
+Shaimak Shukla,27,70000
+Kislay Chaturvedi,24,70000
+Sanjay Sharma,27,60000
+Nitin Patial,25,60000

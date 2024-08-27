@@ -1,0 +1,6 @@
+ID,Item,Quantity
+001,Laptop,50
+002,Mouse,150
+003,Keyboard,100
+004,Monitor,75
+005,Printer,20

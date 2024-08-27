@@ -1,0 +1,6 @@
+Date,Description,Amount
+2024-01-15,Office Supplies,12050.00
+2024-01-20,Software Licenses,3200.00
+2024-02-10,Employee Training,15000.00
+2024-03-05,Travel Expenses,45000.00
+2024-03-15,Utilities,2000.00
